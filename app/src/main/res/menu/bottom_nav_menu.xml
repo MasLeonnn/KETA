@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_utama"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Utama" />
+
+    <item
+        android:id="@+id/navigation_komunitas"
+        android:icon="@drawable/baseline_chat_bubble_24"
+        android:title="Komunitas" />
+
+    <item
+        android:id="@+id/navigation_belanja"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        android:title="Belanja" />
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Profil"/>
+
+</menu>
